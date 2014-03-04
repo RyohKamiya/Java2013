@@ -1,0 +1,5 @@
+package ex06_01;
+
+public enum Today {
+	MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY,
+}
